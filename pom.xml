@@ -3,7 +3,7 @@
   <groupId>maventest.com</groupId>
   <artifactId>maventest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
   <name>maventest</name>
   <url>http://maven.apache.org</url>
   <properties>
